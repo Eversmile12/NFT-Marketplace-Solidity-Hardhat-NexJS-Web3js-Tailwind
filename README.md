@@ -46,7 +46,7 @@ If you want to work with brand new contracts, though, you'll need to:
 
 ![image](https://user-images.githubusercontent.com/72762629/144294242-be8c53d2-c927-427a-8a14-ca4e90e1641e.png)
 
-2. Get some test MATIC from an online faucet such as [this one]()
+2. Get some test MATIC from an online faucet such as [this one](https://faucet.polygon.technology/)
 
 Once you'll have both, run the following code in your terminal:
 ```bash
